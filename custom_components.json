@@ -8,7 +8,7 @@
 		"resources": []
 	},
 	"icloud3 (prelease)": {
-		"version": "0.86.1",
+		"version": "0.86.2",
 		"local_location": "/custom_components/icloud3/device_tracker.py",
 		"remote_location": "https://raw.githubusercontent.com/gcobb321/icloud3/master/prerelease/icloud3.py",
 		"visit_repo": "https://github.com/gcobb321/icloud3/tree/master/prerelease",
